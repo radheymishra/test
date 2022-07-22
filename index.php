@@ -34,4 +34,4 @@ Writing objects: 100% (3/3), 314 bytes | 314.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/radheymishra/test.git
    87cadf0..4d4c44b  main -> main
-   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
+pkey   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

@@ -1,4 +1,4 @@
-C:\xampp\htdocs\test>git status
+C:\xampp\htdocs\test>git status     lll
 On branch main
 Your branch is up to date with 'origin/main'.
 
